@@ -1,0 +1,13 @@
+{
+  "name": "sea-chess-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sea Chess permanent multiplayer relay (zero dependencies)",
+  "main": "sea-chess-server.js",
+  "scripts": {
+    "start": "node sea-chess-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
